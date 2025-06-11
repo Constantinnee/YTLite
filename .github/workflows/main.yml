@@ -35,7 +35,7 @@ on:
         default: false
 
       enable_ytl:
-        description: "Integrate YouTube legacy"
+        description: "Integrate YouTubeLegacy"
         type: boolean
         required: true
         default: false
